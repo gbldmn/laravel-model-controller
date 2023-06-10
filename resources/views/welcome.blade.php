@@ -21,7 +21,7 @@
 
 @foreach($movie as $elem)
 
- {{ $elem['title'] }}
+ <div class="card"> {{ $elem['title'] }} </div>
 
 @endforeach
 
