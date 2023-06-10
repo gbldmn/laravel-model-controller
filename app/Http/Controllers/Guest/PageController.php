@@ -9,7 +9,7 @@ use App\Models\Movie;
 class PageController extends Controller
 {
     public function index(){
-        $title = 'pagina home';
+        $title = 'pagina Card';
 
         // phpInfo();
 
